@@ -8,3 +8,4 @@ Local Market is an open source app powered by Meteor and made by [Percolate Stud
   - Cordova integration to use device phone and GPS
   - Mobile UI & UX
   
+# LocalMarket
